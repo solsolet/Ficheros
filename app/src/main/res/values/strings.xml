@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Ficheros</string>
+    <string name="verEstadoAlmExterno">Ver estado almacenamiento externo</string>
+    <string name="txtGuardar">Texto a guardar</string>
+    <string name="anyadirFichero">Añadir al fichero</string>
+    <string name="verFichero">Ver fichero</string>
+    <string name="moverFichero">Mover ficher a...</string>
+    <string name="externalStorage">External Storage</string>
+    <string name="internalStorage">Internal storage</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="volver">Volver</string>
+    <string name="introduceTextoPrimero">Introduce algún texto primero</string>
+    <string name="ficheroNoExiste">El fichero no existe</string>
+    <string name="errorNoRutaFichero">Error: no se recibió la ruta del fichero</string>
+    <string name="ficheroVacio">(El fichero está vacío)</string>
+    <string name="errorLecturaFichero">Error leyendo el fichero:</string>
+</resources>
