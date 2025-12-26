@@ -75,17 +75,17 @@ public class EstadoAlmacenamiento extends AppCompatActivity {
         info.append("\n");
 
         // Additional info
-//        info.append("DIRECTORIOS PÚBLICOS:\n");
-//        info.append("DIRECTORY_MUSIC: ").append(Environment.DIRECTORY_MUSIC).append("\n");
-//        info.append("DIRECTORY_PODCASTS: ").append(Environment.DIRECTORY_PODCASTS).append("\n");
-//        info.append("DIRECTORY_RINGTONES: ").append(Environment.DIRECTORY_RINGTONES).append("\n");
-//        info.append("DIRECTORY_ALARMS: ").append(Environment.DIRECTORY_ALARMS).append("\n");
-//        info.append("DIRECTORY_NOTIFICATIONS: ").append(Environment.DIRECTORY_NOTIFICATIONS).append("\n");
-//        info.append("DIRECTORY_PICTURES: ").append(Environment.DIRECTORY_PICTURES).append("\n");
-//        info.append("DIRECTORY_MOVIES: ").append(Environment.DIRECTORY_MOVIES).append("\n");
-//        info.append("DIRECTORY_DOWNLOADS: ").append(Environment.DIRECTORY_DOWNLOADS).append("\n");
-//        info.append("DIRECTORY_DCIM: ").append(Environment.DIRECTORY_DCIM).append("\n");
-//        info.append("DIRECTORY_DOCUMENTS: ").append(Environment.DIRECTORY_DOCUMENTS).append("\n");
+        info.append("DIRECTORIOS PÚBLICOS:\n");
+        info.append("DIRECTORY_MUSIC: ").append(Environment.DIRECTORY_MUSIC).append("\n");
+        info.append("DIRECTORY_PODCASTS: ").append(Environment.DIRECTORY_PODCASTS).append("\n");
+        info.append("DIRECTORY_RINGTONES: ").append(Environment.DIRECTORY_RINGTONES).append("\n");
+        info.append("DIRECTORY_ALARMS: ").append(Environment.DIRECTORY_ALARMS).append("\n");
+        info.append("DIRECTORY_NOTIFICATIONS: ").append(Environment.DIRECTORY_NOTIFICATIONS).append("\n");
+        info.append("DIRECTORY_PICTURES: ").append(Environment.DIRECTORY_PICTURES).append("\n");
+        info.append("DIRECTORY_MOVIES: ").append(Environment.DIRECTORY_MOVIES).append("\n");
+        info.append("DIRECTORY_DOWNLOADS: ").append(Environment.DIRECTORY_DOWNLOADS).append("\n");
+        info.append("DIRECTORY_DCIM: ").append(Environment.DIRECTORY_DCIM).append("\n");
+        info.append("DIRECTORY_DOCUMENTS: ").append(Environment.DIRECTORY_DOCUMENTS).append("\n");
 
         info.append("\n");
 

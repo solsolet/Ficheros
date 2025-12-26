@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
         try{
             copiarFichero(internalFile, externalFile);
 
-            // Delete        original
+            // Delete original
             if (internalFile.delete()) {
                 currentFile = externalFile;
                 updateButtonState();
@@ -165,7 +165,7 @@ public class MainActivity extends AppCompatActivity {
             // Copy content
             copiarFichero(externalFile, internalFile);
 
-            // Erase original
+            // Delete original
             if (externalFile.delete()) {
                 currentFile = internalFile;
                 updateButtonState();
